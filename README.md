@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi 👋, I'm Andriy</h1>
 <!--
-**Andriy22226/Andriy22226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Andriy22226/Andriy22226** is a ✨ _special_ ✨
 
 Here are some ideas to get you started:
 
