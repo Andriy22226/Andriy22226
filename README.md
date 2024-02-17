@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Andriy</h1>
 <h3 align="center">A Python Developer</h3>
 <div id="header" align="center">
     <a href="https://www.linkedin.com/in/andriy-mykhailyuk/"(/)">
