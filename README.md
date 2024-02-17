@@ -39,7 +39,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Andriy-blue?style=flat&logo=Linkedin&logoColor=white)][(your-linkedin-url)](https://www.linkedin.com/in/andriy-mykhailyuk/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Andriy-blue?style=flat&logo=Linkedin&logoColor=white)][(https://www.linkedin.com/in/andriy-mykhailyuk/)]
 
 ---
 
@@ -74,4 +74,5 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
