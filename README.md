@@ -4,7 +4,6 @@
 
 Here are some ideas to get you started:
 
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -20,11 +19,8 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/andriy-mykhailyuk/"(/)">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-</div>
      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div>
-
-
 
 ---
 
