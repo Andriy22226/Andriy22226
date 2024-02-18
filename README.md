@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">A Python Developer</h3>
-<div id="header" align="center">
+ <div id="header" align="center">
     <a href="https://www.linkedin.com/in/andriy-mykhailyuk/"(/)">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</div>
+ </div>
 
 ---
 
@@ -40,7 +40,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-<table align="center">
+ <table align="center">
   <tr>
     <td align="auto" width="96">
       <a href="#macropower-tech">
@@ -70,7 +70,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>
-</table>
+ </table>
     <p align="center"> 
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
